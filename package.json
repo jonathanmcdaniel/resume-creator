@@ -1,5 +1,6 @@
 {
   "name": "resume-creator",
+  "homepage": "https://jonathanmcdaniel.github.io/resume-creator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
